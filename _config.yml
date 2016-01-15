@@ -1,6 +1,6 @@
 name: Romain Boonen
 favicon: null
-layout_spectrum: 0.9716867366805673
+layout_spectrum: 1
 typography_spectrum: 0.6776867660228163
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.3958620054181665
+    - '#ddddd5'
+    - '#0d182a'
+    - '#516775'
+    - '#7d8e98'
+    - '#27400f'
+  brandStrength: 0.6875
   lightness: 0.7161595840007067
-  saturation: 0.42906558234244585
-  rhythmicContrast: 0.44759815582074225
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
